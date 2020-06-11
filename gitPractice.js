@@ -9,4 +9,4 @@ Git contribution_three
 
 My name is Dasaradhi.
 Second person name is Rithvik.
-its edited by santosh
+Third person name is santosh.
