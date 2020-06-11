@@ -1,8 +1,12 @@
 its git practice
 
-<<<<<<< HEAD
 
 Git contribution_two
-=======
 My name is Dasaradhi.
->>>>>>> 2bdd7c672b325e33198fe09bc694e7c2c442fb78
+
+
+Git contribution_three
+
+My name is Dasaradhi.
+Second person name is Rithvik.
+Third person name is santosh.
